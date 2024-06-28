@@ -1,4 +1,5 @@
 HOUSING PRICE PREDICTION USING LINEAR REGRESSION
+
 Linear Regression:
 
 Linear regression is a statistical method used to model the relationship between a dependent variable (target variable) and one or more independent variables (predictor variables). It assumes a linear relationship between the variables, meaning the change in the dependent variable is directly proportional to changes in the independent variables.
